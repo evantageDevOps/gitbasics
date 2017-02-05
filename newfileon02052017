@@ -1,3 +1,7 @@
 This is a new file
 
 #fixed some problem for example: forgot password link has been edited to be hit
+
+#customer clicks on forgot password
+#customer enters the email address
+#customer clicks on "Send Instructions to E-Mail" link
